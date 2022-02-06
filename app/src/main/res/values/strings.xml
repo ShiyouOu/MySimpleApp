@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Simple App</string>
+    <string name="title_view">Random Number Generator</string>
+    <string name="generate_button">Generate</string>
+</resources>
